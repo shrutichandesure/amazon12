@@ -1,2 +1,5 @@
-# amazon12
-Online Amazon12 an Application
+Mysore masala dosa
+Tomato bath
+Idli vade
+Rava Idli
+Benne Masala
